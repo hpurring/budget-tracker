@@ -22,7 +22,7 @@
   ## Usage
   Use BUDGET TRACKER to easily and efficiently track your financial transactions—with or without an internet connection!
   
-  ![BUDGET TRACKER](https://github.com/hpurring/blech/blob/main/public/images/blech_screenshot.png)
+  ![BUDGET TRACKER](https://github.com/hpurring/budget-tracker/blob/main/assets/budget-tracker_screenshot.png)
   [Test out BUDGET TRACKER](https://damp-spire-50421.herokuapp.com/)
 
 
